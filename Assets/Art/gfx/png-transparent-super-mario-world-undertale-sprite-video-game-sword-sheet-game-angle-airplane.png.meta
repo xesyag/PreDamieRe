@@ -1,0 +1,2393 @@
+fileFormatVersion: 2
+guid: cfb6cdf9e17bfe840a5462cb7fea81ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2303457196560007112
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_0
+  - first:
+      213: -3493721342820042907
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_1
+  - first:
+      213: -7655958405072825700
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_2
+  - first:
+      213: -1109580799447228396
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_3
+  - first:
+      213: -1442685741681716479
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_4
+  - first:
+      213: 6834723632128125110
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_5
+  - first:
+      213: 4320084379464739414
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_6
+  - first:
+      213: -3422167372878105229
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_7
+  - first:
+      213: 7218422064919705957
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_8
+  - first:
+      213: -8533087335220896793
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_9
+  - first:
+      213: -2036339250938144520
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_10
+  - first:
+      213: 3353029830365819385
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_11
+  - first:
+      213: 5330531448518891798
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_12
+  - first:
+      213: 1365148121997414453
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_13
+  - first:
+      213: 1652267860808269280
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_14
+  - first:
+      213: 6448653023707206968
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_15
+  - first:
+      213: 3653663911519189784
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_16
+  - first:
+      213: -3344545422396846068
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_17
+  - first:
+      213: 6571073994716257510
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_18
+  - first:
+      213: 1722966021248508918
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_19
+  - first:
+      213: -7161329974749626374
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_20
+  - first:
+      213: 1917691860681835718
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_21
+  - first:
+      213: 2331064551981599765
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_22
+  - first:
+      213: 33025146497771424
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_23
+  - first:
+      213: -4797312230777533925
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_24
+  - first:
+      213: 4303536647919473289
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_25
+  - first:
+      213: -6588469678929430999
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_26
+  - first:
+      213: 462886912739984210
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_27
+  - first:
+      213: 4694865260775125976
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_28
+  - first:
+      213: -4388954187331803547
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_29
+  - first:
+      213: 1108117497971680742
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_30
+  - first:
+      213: 7652928064284072800
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_31
+  - first:
+      213: 5060032272989322505
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_32
+  - first:
+      213: 3301777497587431513
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_33
+  - first:
+      213: 1494310196573316208
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_34
+  - first:
+      213: 8605213857505690850
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_35
+  - first:
+      213: -2569405555684889683
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_36
+  - first:
+      213: -7324407980042394825
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_37
+  - first:
+      213: 1680461547233316227
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_38
+  - first:
+      213: -5911295929514665447
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_39
+  - first:
+      213: -4775765789323333161
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_40
+  - first:
+      213: 6374838987032157297
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_41
+  - first:
+      213: 4311139631496661971
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_42
+  - first:
+      213: 1799024646578423132
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_43
+  - first:
+      213: 1244412258306207521
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_44
+  - first:
+      213: -261519952655111632
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_45
+  - first:
+      213: 824173196367622604
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_46
+  - first:
+      213: 5328894112286517660
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_47
+  - first:
+      213: -6855173828600488547
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_48
+  - first:
+      213: 2750067425096668604
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_49
+  - first:
+      213: 4441928422133668186
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_50
+  - first:
+      213: -7606826251192620000
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_51
+  - first:
+      213: 6508201413412561083
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_52
+  - first:
+      213: -2778965559911843371
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_53
+  - first:
+      213: 6555073346114834440
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_54
+  - first:
+      213: -2515784504403185354
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_55
+  - first:
+      213: 2760246509482099748
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_56
+  - first:
+      213: -1355794251354003922
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_57
+  - first:
+      213: 1150400336633779567
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_58
+  - first:
+      213: 6721335487255882566
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_59
+  - first:
+      213: -4670909928402463680
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_60
+  - first:
+      213: 8519755974073605929
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_61
+  - first:
+      213: -6618622178625042994
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_62
+  - first:
+      213: 9219743195745901602
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_63
+  - first:
+      213: -1510752021699846625
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_64
+  - first:
+      213: -3815353523886706240
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_65
+  - first:
+      213: -1008259821924151267
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_66
+  - first:
+      213: 5624606359470927162
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_67
+  - first:
+      213: -640089083175979715
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_68
+  - first:
+      213: 6307229669200235928
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_69
+  - first:
+      213: -6399102245747889106
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_70
+  - first:
+      213: -2430620176026701781
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_71
+  - first:
+      213: 9047170175558773170
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_72
+  - first:
+      213: 1138892318754695503
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_73
+  - first:
+      213: 7013243822549533980
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_74
+  - first:
+      213: -4853269717841220024
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_75
+  - first:
+      213: -1671141202758323877
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_76
+  - first:
+      213: 6675537138743849166
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_77
+  - first:
+      213: -7489790944704510451
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_78
+  - first:
+      213: 7579543159789836676
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_79
+  - first:
+      213: -9088165776030838614
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_80
+  - first:
+      213: 4081008877988733842
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_81
+  - first:
+      213: 3995394332463756139
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_82
+  - first:
+      213: -1565167788400499934
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_83
+  - first:
+      213: 2526539825080688666
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_84
+  - first:
+      213: 2538762518912515428
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_85
+  - first:
+      213: -3851506908279984292
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_86
+  - first:
+      213: 6709486609844698467
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_87
+  - first:
+      213: -6918593503827455199
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_88
+  - first:
+      213: -467338577223421361
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_89
+  - first:
+      213: 1299169472773659069
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_90
+  - first:
+      213: -5184949963850106743
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_91
+  - first:
+      213: -7792438736573251899
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_92
+  - first:
+      213: 7934354229009376878
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_93
+  - first:
+      213: -4532615866646604373
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_94
+  - first:
+      213: 2744043511354019105
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_95
+  - first:
+      213: -1514391002023832236
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_96
+  - first:
+      213: -525318090713438392
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_97
+  - first:
+      213: 5643669729267043759
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_98
+  - first:
+      213: 8463835717658135394
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_99
+  - first:
+      213: -8941876416080650721
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_100
+  - first:
+      213: -2044006887347655759
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_101
+  - first:
+      213: -3098059619693945046
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_102
+  - first:
+      213: -4052429236615184419
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_103
+  - first:
+      213: -1796877965282767744
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_104
+  - first:
+      213: -7234383643318881110
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_105
+  - first:
+      213: 44603963764578869
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_106
+  - first:
+      213: -147757997527273205
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_107
+  - first:
+      213: 6210709591875815823
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_108
+  - first:
+      213: 8995072035248156743
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_109
+  - first:
+      213: -2367131145116997240
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_110
+  - first:
+      213: 6338465794188692181
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_111
+  - first:
+      213: 3283172740503177261
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_112
+  - first:
+      213: -5399312340591770224
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_113
+  - first:
+      213: 1471012229238649623
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_114
+  - first:
+      213: -6451045376459635916
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_115
+  - first:
+      213: 4605793758139153399
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_116
+  - first:
+      213: -8474254609423582387
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_117
+  - first:
+      213: -2337668507935510070
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_118
+  - first:
+      213: -31626793869526397
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_119
+  - first:
+      213: 195132487742579956
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_120
+  - first:
+      213: -2655494832474083329
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_121
+  - first:
+      213: -4207812259034320396
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_122
+  - first:
+      213: 8120930437898971062
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_123
+  - first:
+      213: -5289149335254882789
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_124
+  - first:
+      213: -6020676998935365285
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_125
+  - first:
+      213: -4372781827106101011
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_126
+  - first:
+      213: 8889366730804569836
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_127
+  - first:
+      213: -7267400622806391838
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_128
+  - first:
+      213: 4583540306324811980
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_129
+  - first:
+      213: 105365596042736722
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_130
+  - first:
+      213: 6767277470407128333
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_131
+  - first:
+      213: 4631984977600780558
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_132
+  - first:
+      213: 1918362465220728280
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_133
+  - first:
+      213: -1702532454582931157
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_134
+  - first:
+      213: -6444596200401127080
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_135
+  - first:
+      213: 7594780429786627684
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_136
+  - first:
+      213: 1385988485014959370
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_137
+  - first:
+      213: -8795010250087632595
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_138
+  - first:
+      213: 5810994396370311154
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_139
+  - first:
+      213: 9076220727021369896
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_140
+  - first:
+      213: -270116510034111084
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_141
+  - first:
+      213: -3616372441759632265
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_142
+  - first:
+      213: 6814352350717133672
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_143
+  - first:
+      213: 8076194723878854627
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_144
+  - first:
+      213: 5505460895307198958
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_145
+  - first:
+      213: -3597454138304489911
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_146
+  - first:
+      213: 1606074065539347313
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_147
+  - first:
+      213: 4807426867969927272
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_148
+  - first:
+      213: -2507889934159804935
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_149
+  - first:
+      213: -1373159007382767129
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_150
+  - first:
+      213: 4486450950496149906
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_151
+  - first:
+      213: 1423633729218316622
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_152
+  - first:
+      213: 7763541554511200364
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_153
+  - first:
+      213: -4706348066018055390
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_154
+  - first:
+      213: -4759342740748120507
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_155
+  - first:
+      213: -6673855137138347543
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_156
+  - first:
+      213: -4755807014722023114
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_157
+  - first:
+      213: 2391760718780695716
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_158
+  - first:
+      213: -5864261690993115734
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_159
+  - first:
+      213: -8669070037995008715
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_160
+  - first:
+      213: -6629947390913218058
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_161
+  - first:
+      213: 4870345529930747132
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_162
+  - first:
+      213: 6853985526084792253
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_163
+  - first:
+      213: 4674611151230459050
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_164
+  - first:
+      213: 9112328557679171462
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_165
+  - first:
+      213: -111820639267526364
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_166
+  - first:
+      213: -8312984554811903979
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_167
+  - first:
+      213: 5851284113522878995
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_168
+  - first:
+      213: 4655758888675704092
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_169
+  - first:
+      213: -2766282190763501128
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_170
+  - first:
+      213: -4035153878786299542
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_171
+  - first:
+      213: -7040626319827602440
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_172
+  - first:
+      213: 8705799416826038772
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_173
+  - first:
+      213: 8019078060777720202
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_174
+  - first:
+      213: 1608227803542233244
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_175
+  - first:
+      213: -7070973285109851959
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_176
+  - first:
+      213: -7789091167004577325
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_177
+  - first:
+      213: -4214134728733137055
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_178
+  - first:
+      213: 7665892048887148751
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_179
+  - first:
+      213: -8537676285726052996
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_180
+  - first:
+      213: -119870795249467328
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_181
+  - first:
+      213: 8260058307482481368
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_182
+  - first:
+      213: 1684856020631531958
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_183
+  - first:
+      213: 3359197992954829352
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_184
+  - first:
+      213: -7617629104527412700
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_185
+  - first:
+      213: 4583932766815717937
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_186
+  - first:
+      213: -8794247796628628168
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_187
+  - first:
+      213: 4759581948075989301
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_188
+  - first:
+      213: -4847683143490453130
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_189
+  - first:
+      213: 4233463119127231184
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_190
+  - first:
+      213: 380117977551303967
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_191
+  - first:
+      213: 2933930142475047957
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_192
+  - first:
+      213: -76338307275231251
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_193
+  - first:
+      213: 2657739251880228574
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_194
+  - first:
+      213: -7813889990603124679
+    second: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfb644bd1687ff10800000000000000
+      internalID: 2303457196560007112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b20103fec38fc0800000000000000
+      internalID: -3493721342820042907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d772c46290c590800000000000000
+      internalID: -7655958405072825700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410aa57442af990f0800000000000000
+      internalID: -1109580799447228396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035a8c26fc8afbe0800000000000000
+      internalID: -1442685741681716479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e6f67ee0d9de50800000000000000
+      internalID: 6834723632128125110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 808
+        width: 121
+        height: 112
+      alignment: 9
+      pivot: {x: 3.9593577, y: -2.122697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aa5b5bad504fb30800000000000000
+      internalID: 4320084379464739414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753ba1e7e40280d0800000000000000
+      internalID: -3422167372878105229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 820
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569716a8f9cfc2460800000000000000
+      internalID: 7218422064919705957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb16c26742649980800000000000000
+      internalID: -8533087335220896793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f895a18d387db3e0800000000000000
+      internalID: -2036339250938144520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13e389dda588e20800000000000000
+      internalID: 3353029830365819385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619540d2c1ad9f940800000000000000
+      internalID: 5330531448518891798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530927debfaf1f210800000000000000
+      internalID: 1365148121997414453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed75458dd80ee610800000000000000
+      internalID: 1652267860808269280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83511d532c73e7950800000000000000
+      internalID: 6448653023707206968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf3c638fb64b230800000000000000
+      internalID: 3653663911519189784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0090e298a9c591d0800000000000000
+      internalID: -3344545422396846068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec9edfabf4213b50800000000000000
+      internalID: 6571073994716257510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3e598b77439e710800000000000000
+      internalID: 1722966021248508918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff0bf8458dd9c90800000000000000
+      internalID: -7161329974749626374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4499046920d9a10800000000000000
+      internalID: 1917691860681835718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c4e590cda995020800000000000000
+      internalID: 2331064551981599765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a7ad1234557000800000000000000
+      internalID: 33025146497771424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4edf71f58c6db0800000000000000
+      internalID: -4797312230777533925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9829d19b7cb39bb30800000000000000
+      internalID: 4303536647919473289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926baf5fbbd0194a0800000000000000
+      internalID: -6588469678929430999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534b05d1318c6600800000000000000
+      internalID: 462886912739984210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3b2d88413872140800000000000000
+      internalID: 4694865260775125976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566ef989b6d4713c0800000000000000
+      internalID: -4388954187331803547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e52ffb4ef2d06f00800000000000000
+      internalID: 1108117497971680742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b154b0789a43a60800000000000000
+      internalID: 7652928064284072800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_32
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d7a870b88d83640800000000000000
+      internalID: 5060032272989322505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958b317f32542dd20800000000000000
+      internalID: 3301777497587431513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_34
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742ff2e43bdcb410800000000000000
+      internalID: 1494310196573316208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e445e8396cdb6770800000000000000
+      internalID: 8605213857505690850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabac79a243a75cd0800000000000000
+      internalID: -2569405555684889683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_37
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733698f9fb97a5a90800000000000000
+      internalID: -7324407980042394825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d8b8dafd2325710800000000000000
+      internalID: 1680461547233316227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad017ebabd6fda0800000000000000
+      internalID: -5911295929514665447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d17be4515219bdb0800000000000000
+      internalID: -4775765789323333161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_41
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cdc5a884af77850800000000000000
+      internalID: 6374838987032157297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db877847ae34db30800000000000000
+      internalID: 4311139631496661971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55ca79626b67f810800000000000000
+      internalID: 1799024646578423132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fab721b5a054110800000000000000
+      internalID: 1244412258306207521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aa0581df4ee5cf0800000000000000
+      internalID: -261519952655111632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1f3eac72d007b00800000000000000
+      internalID: 824173196367622604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_47
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99228026f804f940800000000000000
+      internalID: 5328894112286517660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_48
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d96b029b78dd0a0800000000000000
+      internalID: -6855173828600488547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5924da0c33a2620800000000000000
+      internalID: 2750067425096668604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a591df69d56e4ad30800000000000000
+      internalID: 4441928422133668186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2c85c3df1f6690800000000000000
+      internalID: -7606826251192620000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0a62d14b6c15a50800000000000000
+      internalID: 6508201413412561083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9f86efb812f69d0800000000000000
+      internalID: -2778965559911843371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8005ecf5a7c48fa50800000000000000
+      internalID: 6555073346114834440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631bd9b8253261dd0800000000000000
+      internalID: -2515784504403185354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4244132739d5e4620800000000000000
+      internalID: 2760246509482099748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26278bcf404f2de0800000000000000
+      internalID: -1355794251354003922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65db86d20b07ff00800000000000000
+      internalID: 1150400336633779567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_59
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b2d16b30bf64d50800000000000000
+      internalID: 6721335487255882566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d9bbea289d2fb0800000000000000
+      internalID: -4670909928402463680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_61
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5ba73be04c3670800000000000000
+      internalID: 8519755974073605929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_62
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5488c023ee524a0800000000000000
+      internalID: -6618622178625042994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c52c6969b13ff70800000000000000
+      internalID: 9219743195745901602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e90e26a0bb80be0800000000000000
+      internalID: -1510752021699846625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_65
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b2344f242d0bc0800000000000000
+      internalID: -3815353523886706240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1099e0b801f102f0800000000000000
+      internalID: -1008259821924151267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3deaa9fead9e0e40800000000000000
+      internalID: 5624606359470927162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_68
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b0b4ce52fd17f0800000000000000
+      internalID: -640089083175979715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d0c7d87f7c78750800000000000000
+      internalID: 6307229669200235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_70
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ceac05962d137a0800000000000000
+      internalID: -6399102245747889106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f700f3d3b44ed0800000000000000
+      internalID: -2430620176026701781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b960b837510e8d70800000000000000
+      internalID: 9047170175558773170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496bc0a7882ecf00800000000000000
+      internalID: 1138892318754695503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_74
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15844e491c045160800000000000000
+      internalID: 7013243822549533980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ee9e4c7e8b5acb0800000000000000
+      internalID: -4853269717841220024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_76
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5132102ee9eec8e0800000000000000
+      internalID: -1671141202758323877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec031cfb8a544ac50800000000000000
+      internalID: 6675537138743849166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_78
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0643f281daee0890800000000000000
+      internalID: -7489790944704510451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d30f7852ff2960800000000000000
+      internalID: 7579543159789836676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-transparent-super-mario-world-undertale-sprite-video-game-sword-sheet-game-angle-airplane_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0d1dbb06950e180800000000000000
+      internalID: -9088165776030838614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
